@@ -1,4 +1,4 @@
-# SimpleCRUD for Code Review
+# Code Review
 
 username : admin
 password : admin
